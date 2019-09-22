@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167381152041",
+    "firebase_url": "https://utrack-1a8bb.firebaseio.com",
+    "project_id": "utrack-1a8bb",
+    "storage_bucket": "utrack-1a8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167381152041:android:d715cf06819db92b2ec738",
+        "android_client_info": {
+          "package_name": "com.example.utrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167381152041-60bi4dmq7fuu7fj59fuoc1ac5v4iqcb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.utrack",
+            "certificate_hash": "e1b183f5e437ca9af1a26fb35083807bda2833e7"
+          }
+        },
+        {
+          "client_id": "167381152041-8ev61aedhr8i79e9ff99p264d3vijdq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXpjalWKS7lEDnLPeFocgjBDbRmMyagQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167381152041-8ev61aedhr8i79e9ff99p264d3vijdq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

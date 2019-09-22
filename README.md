@@ -1,0 +1,1 @@
+This is a device tracking application.You can find active users location by this app.
